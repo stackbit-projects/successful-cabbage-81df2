@@ -4,8 +4,7 @@ sections:
   - type: hero_section
     title: Auroa
     actions:
-      - label: Learn More
-        url: /features
+      - url: /features
         style: primary
       - label: Contact Us
         url: /contact
