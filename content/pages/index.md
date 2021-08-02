@@ -6,6 +6,7 @@ sections:
     actions:
       - url: /features
         style: primary
+        label: Inovações
       - label: Contact Us
         url: /contact
         style: secondary
