@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: André Felipe
+    title: Auroa
     actions:
       - label: Learn More
         url: /features
