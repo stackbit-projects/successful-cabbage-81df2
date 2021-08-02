@@ -7,7 +7,7 @@ sections:
       - url: /features
         style: primary
         label: Inovações
-      - label: Contact Us
+      - label: Ideias
         url: /contact
         style: secondary
     align: left
