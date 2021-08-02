@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Sidney Lucena
+    title: André Felipe
     actions:
       - label: Learn More
         url: /features
